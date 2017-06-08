@@ -1,2 +1,2 @@
 # bohan-app
-react es6
+webpack^2.0 react es6
